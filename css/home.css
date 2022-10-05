@@ -7,29 +7,38 @@ div.introdution{
     position: fixed;
     left: 100px; 
     bottom: 60px;
+    padding: 1%;
 }
 
 div.portfolio{
     position: fixed;
     left: 100px;
     bottom: -30px;
+    padding: 2%;
+
 }
 
 div.schedule{
     position: fixed;
     left: 100px;
     bottom: -250px;
+    padding: 2%;
+
 } 
 
 div.contact{
     position: fixed;
     right: 44.5px;
     bottom: 200px;
+    padding: 2%;
+
 }
 
 div.assignment{
     position: fixed;
     right: 100px;
+    padding: 2%;
+
 }
 
 
@@ -38,6 +47,8 @@ div.navbar{
     position:fixed;
     top: 5px;
     right:350px;
+    padding: 2%;
+
 }
 
 p.float{
